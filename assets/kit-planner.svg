@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300" role="img" aria-labelledby="k">
+  <title id="k">Illustration of a printable move-in planner with checklist boxes</title>
+  <rect x="58" y="34" width="200" height="250" rx="12" fill="#2f3a2a" opacity=".35" transform="rotate(-6 158 159)"/>
+  <rect x="62" y="24" width="200" height="250" rx="12" fill="#fffaf2"/>
+  <rect x="62" y="24" width="200" height="54" rx="12" fill="#f1dfbf"/>
+  <rect x="62" y="62" width="200" height="16" fill="#f1dfbf"/>
+  <rect x="82" y="40" width="110" height="10" rx="5" fill="#a4512f"/>
+  <rect x="82" y="56" width="70" height="7" rx="3.5" fill="#c98a5e"/>
+  <g fill="none" stroke="#3f4d38" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="82" y="98" width="18" height="18" rx="4"/><path d="M86 107l4 4 8-9"/>
+    <rect x="82" y="134" width="18" height="18" rx="4"/><path d="M86 143l4 4 8-9"/>
+    <rect x="82" y="170" width="18" height="18" rx="4"/><path d="M86 179l4 4 8-9"/>
+    <rect x="82" y="206" width="18" height="18" rx="4"/>
+    <rect x="82" y="242" width="18" height="18" rx="4"/>
+  </g>
+  <g fill="#d8cdb8"><rect x="112" y="102" width="120" height="9" rx="4.5"/><rect x="112" y="138" width="96" height="9" rx="4.5"/><rect x="112" y="174" width="128" height="9" rx="4.5"/><rect x="112" y="210" width="104" height="9" rx="4.5"/><rect x="112" y="246" width="84" height="9" rx="4.5"/></g>
+  <circle cx="246" cy="34" r="22" fill="#d9a441"/>
+  <path d="M236 34l7 7 13-14" fill="none" stroke="#fffaf2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

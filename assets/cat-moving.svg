@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Moving boxes, a set of keys, a roll of tape, and a move-in checklist</title>
+<rect width="400" height="240" fill="#efe2ea"/>
+<rect x="0" y="206" width="400" height="34" fill="#dcc6d3"/>
+<g><rect x="60" y="120" width="120" height="90" fill="#c98a5e"/><path d="M60 120l20-18h120l-20 18z" fill="#dba57d"/><path d="M180 120l20-18v90l-20 18z" fill="#a86d47"/><rect x="104" y="120" width="32" height="90" fill="#e9c9a9" opacity=".6"/></g>
+<g><rect x="80" y="56" width="90" height="64" fill="#dba57d"/><path d="M80 56l16-14h90l-16 14z" fill="#e8bc94"/><path d="M170 56l16-14v64l-16 14z" fill="#c98a5e"/><rect x="113" y="56" width="24" height="64" fill="#f3dcc4" opacity=".7"/></g>
+<rect x="96" y="150" width="46" height="22" rx="3" fill="#fffaf2"/><path d="M104 158h30M104 165h20" stroke="#c9b6c2" stroke-width="3"/>
+<g transform="translate(236 46)"><rect x="0" y="10" width="110" height="150" rx="10" fill="#fffaf2" stroke="#dcc6d3" stroke-width="3"/><rect x="34" y="0" width="42" height="20" rx="6" fill="#6a3a55"/>
+<g fill="none" stroke="#6a3a55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="16" y="40" width="14" height="14" rx="3"/><path d="M19 47l3 3 6-7"/><rect x="16" y="72" width="14" height="14" rx="3"/><path d="M19 79l3 3 6-7"/><rect x="16" y="104" width="14" height="14" rx="3"/><rect x="16" y="134" width="14" height="14" rx="3"/></g>
+<g fill="#e3d2dc"><rect x="40" y="42" width="54" height="9" rx="4.5"/><rect x="40" y="74" width="44" height="9" rx="4.5"/><rect x="40" y="106" width="54" height="9" rx="4.5"/><rect x="40" y="136" width="36" height="9" rx="4.5"/></g></g>
+<g transform="translate(300 176)"><circle cx="0" cy="12" r="12" fill="none" stroke="#d9a441" stroke-width="5"/><path d="M10 18l26 10M28 25l-3 8M34 27l-2 6" stroke="#d9a441" stroke-width="5" stroke-linecap="round"/></g>
+<g transform="translate(212 168)"><circle cx="16" cy="20" r="18" fill="#b9c9ad"/><circle cx="16" cy="20" r="8" fill="#efe2ea"/></g>
+</svg>

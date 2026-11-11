@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Bathroom with a tension-pole shower caddy, an over-the-door towel hook, and bottles</title>
+<defs><pattern id="t" width="32" height="32" patternUnits="userSpaceOnUse"><rect width="32" height="32" fill="#f4f8fb"/><path d="M0 0h32v32" fill="none" stroke="#d3e0ea" stroke-width="2"/></pattern></defs>
+<rect width="400" height="240" fill="url(#t)"/>
+<rect x="0" y="0" width="400" height="20" fill="#e3ecf3"/>
+<rect x="150" y="10" width="8" height="220" rx="4" fill="#2f4f6b"/><rect x="146" y="6" width="16" height="10" rx="3" fill="#a4512f"/><rect x="146" y="222" width="16" height="10" rx="3" fill="#a4512f"/>
+<g fill="#fffaf2" stroke="#2f4f6b" stroke-width="3"><rect x="120" y="58" width="70" height="30" rx="5"/><rect x="120" y="120" width="70" height="30" rx="5"/></g>
+<rect x="128" y="34" width="14" height="26" rx="5" fill="#d9a441"/><rect x="146" y="40" width="0" height="0"/><rect x="164" y="40" width="16" height="20" rx="4" fill="#8fb2c9"/>
+<rect x="128" y="100" width="18" height="22" rx="4" fill="#c98a5e"/><circle cx="174" cy="112" r="10" fill="#b9c9ad"/>
+<rect x="250" y="20" width="96" height="212" fill="#e9dcc6"/><rect x="250" y="20" width="96" height="212" fill="none" stroke="#d4c3a6" stroke-width="3"/>
+<circle cx="334" cy="130" r="5" fill="#a4512f"/>
+<path d="M262 20v-8h16v8M262 12v18a6 6 0 0 0 12 0" fill="none" stroke="#3f4d38" stroke-width="4" stroke-linecap="round"/>
+<path d="M254 38h36v84c0 6-4 10-10 10h-16c-6 0-10-4-10-10z" fill="#2f4f6b"/><path d="M254 104h36" stroke="#d9a441" stroke-width="4"/>
+<g transform="translate(40 150)"><rect x="0" y="40" width="80" height="50" rx="8" fill="#fffaf2" stroke="#d3e0ea" stroke-width="3"/><path d="M14 40c2-24 18-36 26-36s24 12 26 36" fill="none" stroke="#2f4f6b" stroke-width="3"/><circle cx="40" cy="20" r="3" fill="#2f4f6b"/></g>
+<g fill="#ffffff" opacity=".8"><circle cx="70" cy="60" r="6"/><circle cx="86" cy="44" r="4"/><circle cx="60" cy="36" r="3"/></g>
+</svg>

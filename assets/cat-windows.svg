@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Window with curtains on a no-drill tension rod and a tie-back</title>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bcd6da"/><stop offset="1" stop-color="#eef2e6"/></linearGradient></defs>
+<rect width="400" height="240" fill="#e1ebec"/>
+<rect x="110" y="28" width="180" height="176" rx="6" fill="#fffaf2" stroke="#c9d8da" stroke-width="4"/>
+<rect x="124" y="42" width="152" height="148" fill="url(#s)"/>
+<circle cx="236" cy="82" r="18" fill="#f3d79a"/>
+<path d="M124 160c26-18 52-22 76-12s50 6 76-10v52H124z" fill="#9fb69a"/><path d="M124 176c30-10 60-10 90-2s44 4 62-2v18H124z" fill="#7f9878"/>
+<path d="M200 42v148M124 116h152" stroke="#fffaf2" stroke-width="6"/>
+<rect x="96" y="44" width="208" height="8" rx="4" fill="#3f4d38"/><rect x="90" y="41" width="12" height="14" rx="4" fill="#a4512f"/><rect x="298" y="41" width="12" height="14" rx="4" fill="#a4512f"/>
+<path d="M104 50h44c-2 40 4 70-10 100-6 18 4 40 12 60h-50c2-60 4-110 4-160z" fill="#2f5559"/>
+<path d="M118 54c0 50-2 100-6 150M132 54c2 30 0 60-6 90" stroke="#24464a" stroke-width="3" fill="none" opacity=".7"/>
+<path d="M136 146c8 2 16 2 22-2" stroke="#d9a441" stroke-width="5" stroke-linecap="round"/>
+<path d="M296 50h-44c2 40-4 90 6 160h42c-2-60-4-110-4-160z" fill="#2f5559"/>
+<path d="M282 54c0 50 2 100 6 150M268 54c-2 50-4 100-2 150" stroke="#24464a" stroke-width="3" fill="none" opacity=".7"/>
+<rect x="0" y="212" width="400" height="28" fill="#c9d8da"/>
+<g transform="translate(330 150)"><path d="M10 62c-16-14-18-36-8-48 6 14 10 26 8 48zM14 62c2-24 14-40 30-44-2 20-12 34-30 44z" fill="#5d6b54"/><path d="M-4 58h34l-4 26h-26z" fill="#a4512f"/></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Portable air conditioner venting through a sliding window kit, with cool air lines</title>
+<rect width="400" height="240" fill="#e6efe9"/>
+<rect x="210" y="24" width="150" height="150" rx="6" fill="#fffaf2" stroke="#c7d8cd" stroke-width="4"/>
+<rect x="222" y="36" width="126" height="126" fill="#cfe3e0"/><circle cx="318" cy="64" r="14" fill="#f3d79a"/>
+<rect x="222" y="120" width="126" height="20" fill="#2f5a45"/><circle cx="252" cy="130" r="7" fill="#fffaf2" stroke="#2f5a45" stroke-width="2"/>
+<path d="M285 36v84" stroke="#fffaf2" stroke-width="5"/>
+<rect x="64" y="96" width="92" height="128" rx="14" fill="#fffaf2" stroke="#c7d8cd" stroke-width="3"/>
+<rect x="78" y="110" width="64" height="12" rx="6" fill="#2f5a45"/><circle cx="132" cy="140" r="4" fill="#d9a441"/>
+<g stroke="#c7d8cd" stroke-width="3"><path d="M80 160h60M80 172h60M80 184h60M80 196h60"/></g>
+<path d="M150 108c40-4 54-30 82 4 8 10 10 10 20 10" fill="none" stroke="#9fb6a9" stroke-width="16" stroke-linecap="round"/>
+<path d="M150 108c40-4 54-30 82 4 8 10 10 10 20 10" fill="none" stroke="#c7d8cd" stroke-width="16" stroke-linecap="round" stroke-dasharray="3 9"/>
+<g fill="none" stroke="#2f5a45" stroke-width="3" stroke-linecap="round" opacity=".7"><path d="M24 120c10-6 20 6 30 0M18 146c10-6 20 6 30 0M24 172c10-6 20 6 30 0"/></g>
+<g transform="translate(36 40)" stroke="#2f5a45" stroke-width="3" stroke-linecap="round" fill="none"><path d="M18 0v36M2 9l32 18M34 9L2 27"/></g>
+<rect x="0" y="224" width="400" height="16" fill="#c7d8cd"/>
+</svg>

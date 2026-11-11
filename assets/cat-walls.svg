@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Wall with framed prints on adhesive strips, an adhesive hook, and a wallpaper roll being applied</title>
+<defs><pattern id="w" width="28" height="28" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="#f3e8cf"/><path d="M14 4l4 6-4 6-4-6z" fill="#e3cf9f"/><circle cx="0" cy="22" r="2" fill="#d9a441" opacity=".5"/><circle cx="28" cy="22" r="2" fill="#d9a441" opacity=".5"/></pattern></defs>
+<rect width="400" height="240" fill="#fbf4e4"/>
+<rect x="250" y="0" width="150" height="240" fill="url(#w)"/>
+<path d="M250 0v240" stroke="#c9ad6e" stroke-width="2"/>
+<path d="M250 190c-30 0-44 14-44 30s14 20 30 20h14z" fill="#f3e8cf" stroke="#c9ad6e" stroke-width="2"/>
+<rect x="196" y="196" width="60" height="44" rx="22" fill="#d9a441"/><rect x="196" y="196" width="60" height="44" rx="22" fill="none" stroke="#b5862c" stroke-width="2"/>
+<rect x="40" y="46" width="96" height="74" rx="4" fill="#3f4d38"/><rect x="48" y="54" width="80" height="58" fill="#fffaf2"/><path d="M48 112l24-26 18 16 12-10 26 20z" fill="#d9a441"/><circle cx="110" cy="72" r="7" fill="#a4512f"/>
+<rect x="56" y="34" width="20" height="9" rx="3" fill="#fff" stroke="#c9b48a"/><rect x="100" y="34" width="20" height="9" rx="3" fill="#fff" stroke="#c9b48a"/>
+<rect x="154" y="60" width="62" height="78" rx="4" fill="#a4512f"/><rect x="161" y="67" width="48" height="64" fill="#f6e4d8"/><path d="M167 124a18 18 0 0 1 36 0" fill="none" stroke="#5d6b54" stroke-width="7"/><path d="M175 124a10 10 0 0 1 20 0" fill="none" stroke="#d9a441" stroke-width="6"/><path d="M167 82h36M167 92h24" stroke="#c98a5e" stroke-width="4" stroke-linecap="round"/>
+<rect x="175" y="48" width="20" height="9" rx="3" fill="#fff" stroke="#c9b48a"/>
+<rect x="72" y="150" width="22" height="12" rx="3" fill="#fff" stroke="#c9b48a"/><path d="M78 160h10v6a7 7 0 0 1-7 7" fill="none" stroke="#3f4d38" stroke-width="4" stroke-linecap="round"/>
+<path d="M62 196c0-12 8-20 18-20s18 8 18 20" fill="none" stroke="#7a5a14" stroke-width="3"/><rect x="54" y="194" width="52" height="40" rx="8" fill="#5d6b54"/>
+</svg>

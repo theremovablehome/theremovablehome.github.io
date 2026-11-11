@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Freestanding shelves with labeled bins, an under-bed box, and a rolling cart</title>
+<rect width="400" height="240" fill="#e5eadc"/>
+<rect x="0" y="212" width="400" height="28" fill="#cdd6c2"/>
+<g fill="#3f4d38"><rect x="48" y="30" width="8" height="182"/><rect x="200" y="30" width="8" height="182"/><rect x="48" y="30" width="160" height="8"/><rect x="48" y="86" width="160" height="8"/><rect x="48" y="142" width="160" height="8"/><rect x="48" y="198" width="160" height="8"/></g>
+<rect x="62" y="48" width="58" height="38" rx="5" fill="#d9a441"/><rect x="78" y="58" width="26" height="8" rx="2" fill="#fffaf2"/>
+<rect x="128" y="54" width="64" height="32" rx="5" fill="#fffaf2"/><rect x="138" y="62" width="22" height="7" rx="2" fill="#c9cfbd"/>
+<rect x="62" y="104" width="40" height="38" rx="5" fill="#a4512f"/><rect x="108" y="110" width="40" height="32" rx="5" fill="#b9c9ad"/><rect x="154" y="100" width="40" height="42" rx="5" fill="#fffaf2"/>
+<rect x="62" y="160" width="130" height="38" rx="6" fill="#c98a5e"/><path d="M110 172h34" stroke="#fffaf2" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(250 112)"><rect x="0" y="0" width="90" height="8" rx="4" fill="#5d6b54"/><rect x="0" y="40" width="90" height="8" rx="4" fill="#5d6b54"/><rect x="0" y="80" width="90" height="8" rx="4" fill="#5d6b54"/><path d="M4 0v88M86 0v88" stroke="#5d6b54" stroke-width="4"/><circle cx="10" cy="94" r="5" fill="#2a3327"/><circle cx="80" cy="94" r="5" fill="#2a3327"/><rect x="12" y="18" width="20" height="22" rx="3" fill="#fffaf2"/><rect x="38" y="12" width="16" height="28" rx="3" fill="#a4512f"/><rect x="60" y="22" width="20" height="18" rx="4" fill="#d9a441"/><rect x="12" y="56" width="64" height="24" rx="5" fill="#fffaf2"/></g>
+<rect x="240" y="30" width="130" height="66" rx="8" fill="#fffaf2" stroke="#cdd6c2" stroke-width="3"/><path d="M262 54h86M262 70h60" stroke="#cdd6c2" stroke-width="5" stroke-linecap="round"/>
+</svg>

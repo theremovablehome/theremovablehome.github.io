@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240"><title>Kitchen counter with a peel-and-stick tile backsplash, a kettle, and a plant</title>
+<rect width="400" height="240" fill="#f6e4d8"/>
+<g fill="#fffaf2" stroke="#e7c9b4" stroke-width="2"><rect x="40" y="40" width="40" height="28"/><rect x="80" y="40" width="40" height="28"/><rect x="120" y="40" width="40" height="28"/><rect x="160" y="40" width="40" height="28"/><rect x="200" y="40" width="40" height="28"/><rect x="240" y="40" width="40" height="28"/><rect x="280" y="40" width="40" height="28"/><rect x="320" y="40" width="40" height="28"/>
+<rect x="20" y="68" width="40" height="28"/><rect x="60" y="68" width="40" height="28"/><rect x="100" y="68" width="40" height="28"/><rect x="140" y="68" width="40" height="28"/><rect x="180" y="68" width="40" height="28"/><rect x="220" y="68" width="40" height="28"/><rect x="260" y="68" width="40" height="28"/><rect x="300" y="68" width="40" height="28"/><rect x="340" y="68" width="40" height="28"/>
+<rect x="40" y="96" width="40" height="28"/><rect x="80" y="96" width="40" height="28"/><rect x="120" y="96" width="40" height="28"/><rect x="160" y="96" width="40" height="28"/><rect x="200" y="96" width="40" height="28"/><rect x="240" y="96" width="40" height="28"/><rect x="280" y="96" width="40" height="28"/><rect x="320" y="96" width="40" height="28"/></g>
+<path d="M320 96h40v28h-40z" fill="#fffaf2"/><path d="M320 96l40 0 0 28" fill="none" stroke="#a4512f" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M356 92c10 4 14 14 10 24" fill="none" stroke="#a4512f" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="0" y="150" width="400" height="14" fill="#3f4d38"/><rect x="0" y="164" width="400" height="76" fill="#c98a5e"/>
+<g stroke="#a86d47" stroke-width="2"><path d="M100 164v76M200 164v76M300 164v76"/></g>
+<circle cx="95" cy="202" r="4" fill="#3f4d38"/><circle cx="105" cy="202" r="4" fill="#3f4d38"/><circle cx="295" cy="202" r="4" fill="#3f4d38"/><circle cx="305" cy="202" r="4" fill="#3f4d38"/>
+<path d="M96 150c0-22 10-34 30-34s30 12 30 34z" fill="#d9a441"/><rect x="118" y="108" width="16" height="9" rx="4" fill="#3f4d38"/><path d="M156 126c12 0 16 8 12 18" fill="none" stroke="#3f4d38" stroke-width="5" stroke-linecap="round"/><path d="M96 132c-10-2-16-8-18-16" fill="none" stroke="#d9a441" stroke-width="6" stroke-linecap="round"/>
+<rect x="190" y="118" width="56" height="32" rx="6" fill="#e9d2b3"/><circle cx="238" cy="126" r="3" fill="#c98a5e"/>
+<g transform="translate(300 98)"><path d="M10 52c-18-12-22-34-12-46 6 12 12 22 12 46zM14 52c2-22 12-38 28-42-2 18-12 32-28 42zM12 52c-6-20-2-38 8-48 6 16 4 32-8 48z" fill="#5d6b54"/><path d="M-4 50h34l-4 22h-26z" fill="#fffaf2" stroke="#e7c9b4" stroke-width="2"/></g>
+</svg>
