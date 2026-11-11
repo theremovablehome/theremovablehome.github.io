@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">How a tension rod sits inside a window frame</title>
+  <desc id="desc">A spring-loaded rod pressed between the left and right inner edges of a window casing, with curtains hanging from the rod and no screws in the wall.</desc>
+  <rect width="720" height="260" fill="#fffdf8"/>
+  <rect x="40" y="28" width="640" height="200" fill="#e8e0d0" stroke="#1d1914" stroke-width="3"/>
+  <rect x="70" y="52" width="580" height="152" fill="#d5e3ea" stroke="#5a5348" stroke-width="2"/>
+  <rect x="78" y="88" width="564" height="18" rx="9" fill="#9a4d2e"/>
+  <circle cx="88" cy="97" r="12" fill="#3f4d38"/>
+  <circle cx="632" cy="97" r="12" fill="#3f4d38"/>
+  <path d="M150 106c20 40 40 70 60 86" fill="none" stroke="#3f4d38" stroke-width="3"/>
+  <path d="M250 106c20 40 40 70 60 86" fill="none" stroke="#3f4d38" stroke-width="3"/>
+  <path d="M350 106c20 40 40 70 60 86" fill="none" stroke="#3f4d38" stroke-width="3"/>
+  <path d="M450 106c20 40 40 70 60 86" fill="none" stroke="#3f4d38" stroke-width="3"/>
+  <path d="M550 106c16 36 30 64 44 86" fill="none" stroke="#3f4d38" stroke-width="3"/>
+  <text x="360" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1d1914">Inside mount: the rod presses outward against the frame, not the wall</text>
+  <text x="120" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5a5348">rubber end cap</text>
+  <text x="600" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5a5348">rubber end cap</text>
+</svg>
